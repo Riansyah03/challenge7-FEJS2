@@ -1,0 +1,27 @@
+.navbar {
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/ed/80/25/ed8025e329b7985036365c1cdfe9ac30.jpg);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 2rem;
+    font-size: large;
+    font-weight: bold;
+}
+
+.list {
+    display: flex;
+    padding-top: 10px;
+    list-style: none;
+    text-decoration: none;
+    background-color: aqua;
+}
+
+.item {
+    font-weight: normal;
+    margin: 15px;
+}
